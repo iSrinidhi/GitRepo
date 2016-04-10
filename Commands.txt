@@ -1,0 +1,8 @@
+git checkout -- file
+
+
+To Unstage fileS
+git reset HEAD Direct.txt
+
+
+Getting Old Versions from the Repository
